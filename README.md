@@ -12,6 +12,14 @@
   </li>
 </ul>
 <h3>Out of Scope </h3>
-<p>Aseguramiento del autobús.</p>
-<p>Gestión de documentos relacionados con el autobús.</p>
+<ul>
+  <li>
+  Aseguramiento del autobús.
+  </li>
+  <li>    
+  Gestión de documentos relacionados con el autobús.
+  </li>
+</ul>
+<h1>Arquitectura</h1>
+<h3>UML</h3>
 
