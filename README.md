@@ -22,4 +22,4 @@
 </ul>
 <h1>Arquitectura</h1>
 <h3>UML</h3>
-
+   <img src="https://res.cloudinary.com/dxdsq6qcw/image/upload/v1711211393/tce3dkgp8c4k6vimih4b.png" alt="" srcset="">
