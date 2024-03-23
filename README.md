@@ -5,11 +5,13 @@
 <h3>Casos de uso descripción</h3>
 <ul>
   <li>
-    Caso de uso 1
+    llevar la media de boletos vendidos para cada viaje peromitiendo asi calcular la cantidad de boletos vendidosen cada viaje
   </li>
   <li>
-    Caso de uso 2
+    proporciona la funcionalidad de registrar como de getionar destinos de cada viaje asi asignar el conductor del viaje
   </li>
 </ul>
-
+<h3>Out of Scope </h3>
+<p>Aseguramiento del autobús.</p>
+<p>Gestión de documentos relacionados con el autobús.</p>
 
